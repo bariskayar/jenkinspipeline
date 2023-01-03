@@ -2,7 +2,9 @@
 
 created to use for jenkins cd pipeline.
 
-pipeline script download repository and check requested linux, apache, mysql, php versions.
+pipeline script downloads repository,
+
+check requested linux, apache, mysql, php versions,
 
 if versions are ok then  it will be download main branch,
 
